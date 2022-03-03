@@ -17,7 +17,7 @@
 #define MAX 10
 
 
-int Load_current(int Voc,float Load,int i_t) 
+int Load_current(int Voc,float Load,int i_t)     //function declaration
 
 /**
  * @brief Here this function is going to calculate load current of the battery
