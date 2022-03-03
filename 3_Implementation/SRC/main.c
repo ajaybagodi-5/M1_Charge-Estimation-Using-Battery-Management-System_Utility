@@ -1,3 +1,13 @@
+/**
+ * @file main.c
+ * @author AjayBagodi(you@domain.com)
+ * @brief main function to get the result
+ * @version 0.1
+ * @date 2022-02-03
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 int main()
 {
     double inte;
